@@ -19,3 +19,4 @@ set_global_assignment -name VHDL_FILE gen_video.vhd
 set_global_assignment -name VHDL_FILE gen_ram.vhd
 set_global_assignment -name VHDL_FILE galaga.vhd
 set_global_assignment -name SYSTEMVERILOG_FILE "Arcade-Galaga.sv"
+set_global_assignment -name VERILOG_FILE src/joydb9md.v
